@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ghost/static/css/main.33fe8d56.chunk.css",
+    "main.js": "/ghost/static/js/main.3247b4d3.chunk.js",
+    "main.js.map": "/ghost/static/js/main.3247b4d3.chunk.js.map",
+    "runtime-main.js": "/ghost/static/js/runtime-main.5f06e3e2.js",
+    "runtime-main.js.map": "/ghost/static/js/runtime-main.5f06e3e2.js.map",
+    "static/js/2.6d64adf5.chunk.js": "/ghost/static/js/2.6d64adf5.chunk.js",
+    "static/js/2.6d64adf5.chunk.js.map": "/ghost/static/js/2.6d64adf5.chunk.js.map",
+    "index.html": "/ghost/index.html",
+    "precache-manifest.bed7d1ca51a38408c81cfae9ec0c1e55.js": "/ghost/precache-manifest.bed7d1ca51a38408c81cfae9ec0c1e55.js",
+    "service-worker.js": "/ghost/service-worker.js",
+    "static/css/main.33fe8d56.chunk.css.map": "/ghost/static/css/main.33fe8d56.chunk.css.map",
+    "static/js/2.6d64adf5.chunk.js.LICENSE.txt": "/ghost/static/js/2.6d64adf5.chunk.js.LICENSE.txt",
+    "static/media/platform.png": "/ghost/static/media/platform.819c65e9.png",
+    "static/media/social1.svg": "/ghost/static/media/social1.7ffacee7.svg",
+    "static/media/social2.svg": "/ghost/static/media/social2.8fedd2db.svg",
+    "static/media/social3.svg": "/ghost/static/media/social3.10e15ad8.svg",
+    "static/media/social4.svg": "/ghost/static/media/social4.7693ebb2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f06e3e2.js",
+    "static/js/2.6d64adf5.chunk.js",
+    "static/css/main.33fe8d56.chunk.css",
+    "static/js/main.3247b4d3.chunk.js"
+  ]
+}
