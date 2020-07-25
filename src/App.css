@@ -1,3 +1,6 @@
+body {
+  background: #16161A;
+}
 .App {
   text-align: center;
 }
@@ -6,6 +9,95 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+h1, h2 {
+  margin: 0;
+}
+
+.bannerSection {
+  color: #fff;
+  margin-top: 30px;
+  overflow: hidden;
+}
+.bannerSectionContent {
+  padding-left: 30px;
+}
+.bannerSectionContent h1{
+  font-size: 60px;
+}
+.bannerSectionContent h2 {
+  font-size: 60px;
+  font-weight: 400 !important;
+}
+.bannerSectionContent p {
+  color: #94A1B2;
+  font-size: 18px;
+  max-width: 420px;
+  font-weight: 300;
+  margin: 30px 0 40px 0;
+  line-height: 27px;
+}
+.bannerImg {
+  position: relative;
+}
+.bannerImg img {
+  position: absolute;
+  top: -130px;
+  left: -153px;
+}
+.bannerSectionContent .walletBtn {
+  background: #EF4565 !important;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+    width: 250px;
+    height: 64px;
+    margin-right: 20px;
+} 
+.bannerSectionContent .ghostBtn {
+  background: transparent !important;
+  border: solid 2px #fff;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+    width: 200px;
+    height: 64px;
+} 
+.bannerSectionContent .ghostBtn img {
+  margin-right: 10px;
+} 
+.socialList {
+    margin: 50px 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.socialList li {
+  cursor: pointer;
+  margin-right: 20px;
+}
+.partnerContainerInner {
+  padding: 0 30px;
+  margin-top: 50px;
+}
+.partnerContainerInner p {
+  color: #72757E;
+  font-size: 14px;
+  font-weight: 400;
+}
+.partnerContainerInner .partner-logos {
+  margin-top: 30px;
+}
+.partnerContainerInner .partner-logos img {
+  margin-right: 40px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -27,6 +119,7 @@
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {

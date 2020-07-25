@@ -1,0 +1,28 @@
+.mainHeader {
+    box-shadow: none !important;
+    background:   none !important;
+}
+.mainContainer { 
+}
+.mainContainerInner {
+    justify-content: space-between;
+    padding: 8px 0;
+}
+.nav button {
+    color: #fff;
+    font-size: 16px;
+    text-transform: capitalize;
+    margin: 0 15px;
+}
+.nav button:hover {
+    color: #EF4565;
+}
+.rightButton button {
+    width: 120px;
+    height: 40px;
+    background: #EF4565 !important;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    text-transform: capitalize;
+}
